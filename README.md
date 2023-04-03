@@ -1,4 +1,4 @@
 # COMP2521
-Computer Systems Fundamentals
+Data Structures and Algorithms 
 
 UNSW 22T3
